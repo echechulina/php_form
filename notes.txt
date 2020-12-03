@@ -1,0 +1,6 @@
+Notes from Trevor's code"
+
+1. index.html contains the HTML from.
+2. When the submit button is clicked, JS will trigger an AJAX request.
+3. The AJAX request is sending to the form's 'action' attribute.
+4. The AJAX request is expecting JSON file to be returned.
